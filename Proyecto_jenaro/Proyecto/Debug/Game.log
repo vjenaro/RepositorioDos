@@ -1,0 +1,9 @@
+﻿Compilación iniciada a las 29/04/2015 10:15:08 a.m..
+     1>Proyecto "C:\Users\Jenaro\Desktop\Repositorio2\trunk\Proyecto\Proyecto\Game.vcxproj" en el nodo 2 (Build destinos).
+       El archivo del proyecto contiene ToolsVersion="12.0". Este conjunto de herramientas puede faltar o ser desconocido, en cuyo caso es posible que pueda resolver este problema instalando la versión apropiada de MSBuild, o puede haberse obligado a la compilación a utilizar un valor de ToolsVersion concreto por motivos de directivas. Se tratará el proyecto como si contuviera ToolsVersion="4.0". Para obtener más información, vea http://go.microsoft.com/fwlink/?LinkId=291333.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.Cpp.Platform.targets(44,5): error MSB8020: The builds tools for v120 (Platform Toolset = 'v120') cannot be found. To build using the v120 build tools, either click the Project menu or right-click the solution, and then select "Update VC++ Projects...". Install v120 to build using the v120 build tools.
+     1>Compilación del proyecto terminada "C:\Users\Jenaro\Desktop\Repositorio2\trunk\Proyecto\Proyecto\Game.vcxproj" (Build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:00.03
